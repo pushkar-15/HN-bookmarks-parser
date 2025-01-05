@@ -4,7 +4,7 @@ A python script to parse bookmarks exported by [Harmonic](https://github.com/Sim
 ## Usage
 1. Export bookmarks from the Harmonic application (this creates a `.txt` file named as `HarmonicBookmarks<yyyy-m-d>.txt`) and store the file in the same directory as the script.
 2. In the terminal, run `pip install -r requirements.txt` to install the dependencies.
-3. Run the python script `main.py` using `python -u <script-path>` (no authentication is required).
+3. Run the python script `main.py` using `python -u <script-path>` (no authentication is required to access the API).
 
 A `bookmarks.xlsx` file will be created in the same directory as `main.py`
 
